@@ -2,7 +2,7 @@
 ! یکبات مکالمه با متن و تصویر 
 
 <div class="figure">
-  <img src="https://biaupload.com/do.php?imgf=org-3db53843d9f61.png"
+  <img src="https://biaupload.com/do.php?imgf=org-6007ca5fb0514.png"
        alt="The head and torso of a dinosaur skeleton;
             it has a large head with long sharp teeth"
        width="700"
