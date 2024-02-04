@@ -43,7 +43,7 @@
 <p>  " با کمک ماژول ها و توابع گوگل متنی که کاربر وارد کرده را در کوگل سرچ میکند و سایتی که این متن را داشته باشد پیدا و محتوای مورد نظر را استخراج می کند " </p>
 
 <div class="figure">
-  <img src="https://biaupload.com/do.php?imgf=org-a32998182b6c3.png"
+  <img src="https://biaupload.com/do.php?imgf=org-95fa583217c72.png"
        alt="The head and torso of a dinosaur skeleton;
             it has a large head with long sharp teeth"
        width="700"
