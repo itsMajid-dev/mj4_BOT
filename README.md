@@ -71,14 +71,7 @@
        height="400">
 <p> با کلیک بر روی گزینه  picture وارد صفحه ای میشوید که در کارد اولش باید متن مورد نظر را وارد کنید سپس با کلیک بر روی دکمه find مرورگر باز شده و عکسی که پیدا کرده را نمایش میدهد</p>
 
-<h3> 4) می تونی قیمت ارز ها رو ازش بخوای  </h3>
 
-<div class="figure">
-  <img src="https://www.uplooder.net/img/image/35/3ca58b6ccf1aa0b60549e5d50f8e1dd4/Screenshot-(101).png"
-       alt=""
-       width="700"
-       title = " چت بات انسی  " 
-       height="400">
 
 
 
