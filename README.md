@@ -40,25 +40,25 @@
 <p> یا کمک برخی از وبسورسی ها از جمله وبسرویس خود چت جی پی تی توربو اطلاعات رو پردازش میکنه . (این حالت نیازی به فیلتر شکن نداره)</p>
 
 <h4> با کمک گوگل و ماژول های گوگل </h4>
-<p> یا کمک برخی از وبسورسی ها از جمله وبسرویس خود چت جی پی تی توربو اطلاعات رو پردازش میکنه . (این حالت نیازی به فیبتر شکن نداره)</p>
+<p> با کمک ماؤول ها و توابع گوگل متنی که کاربر وارد کرده را در کوگل سرچ میکند و سایتی که این متن را داشته باشد پیدا و محتوای مورد نظر را استخراج می کند</p>
 
 <div class="figure">
   <img src="https://biaupload.com/do.php?imgf=org-a32998182b6c3.png"
        alt="The head and torso of a dinosaur skeleton;
             it has a large head with long sharp teeth"
        width="700"
-       title = " چت بات انسی  " 
+       title = " چت بات ام جی فایو  " 
        height="400">
 
 
 
-<h3> 2)   می تونه معادله حل کنه </h3>
+<h3> 2)    می تونه برنامه نویسی کنه  </h3>
 
 <div class="figure">
-  <img src="https://www.uplooder.net/img/image/88/c412595091002cc764222835ad796130/Screenshot-(104).png"
+  <img src="https://biaupload.com/do.php?imgf=org-a327c2b3766f1.png"
        alt=""
        width="700"
-       title = " چت بات انسی  " 
+       title = " چت بات ام جی فایو  " 
        height="400">
 
 
