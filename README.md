@@ -84,4 +84,4 @@
  📶شبکه : 0.1MBPS
 
 <h2>●دانلود</h2>
-<a href="https://drive.google.com/file/d/1CV9OtHgYab5UQVW21D1UzQupMjDTidhs/view?usp=sharing">DOWNLOAD. </a>
+<a href="https://t.me/the_developerman/28">DOWNLOAD. </a>
